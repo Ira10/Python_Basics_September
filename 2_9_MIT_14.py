@@ -82,13 +82,13 @@
 # ------------------------------------------------------
 # iterate over keys and values
 grades = {'Ana':'B', 'Matt':'A', 'John':'B', 'Katy':'A'}
-print(grades.keys())  # dict_keys(['Ana', 'Matt', 'John', 'Katy'])
-print('\n')
-print(list(grades.keys()))  # ['Ana', 'Matt', 'John', 'Katy']
-print('\n')
+# print(grades.keys())  # dict_keys(['Ana', 'Matt', 'John', 'Katy'])
+# print('\n')
+# print(list(grades.keys()))  # ['Ana', 'Matt', 'John', 'Katy']
+# print('\n')
 
-print(grades.values())
-print('\n')
+# print(grades.values())
+# print('\n')
 
 # print(list(grades.values()))
 
